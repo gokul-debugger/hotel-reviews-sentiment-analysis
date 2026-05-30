@@ -1,0 +1,9 @@
+sentiment_env/
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.DS_Store
+Models/*.pkl
+Models/*.keras
+Models/*.h5
+Dataset/*.csv
