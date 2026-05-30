@@ -1,0 +1,787 @@
+cleaned_negative,polarity_negative,sentiment,Score,GuestCountry,RoomType,GroupType,visit_month,visit_year
+noth,0.0,positive,10.0,Norway,Budget Twin Room,Solo traveler,6,2022
+,0.0,positive,10.0,Poland,Double Room,Family,12,2022
+,0.0,positive,8.0,Sweden,Double Room,Solo traveler,12,2022
+,0.0,positive,9.0,United Kingdom,Double Room with Balcony,Solo traveler,9,2022
+,0.0,positive,10.0,Switzerland,Family Suite with Balcony,Family,10,2022
+,0.0,positive,9.0,United Kingdom,Double Room with Balcony,Couple,12,2022
+,0.0,positive,8.0,United Kingdom,Two-Bedroom Suite,Family,10,2022
+noth,0.0,positive,10.0,Cyprus,Double Room,Couple,11,2022
+mayb possibl purchas fresh fruit veg,0.3,positive,10.0,Israel,Double Room,Family,11,2022
+,0.0,positive,10.0,United Kingdom,Double Room,Solo traveler,12,2022
+,0.0,positive,10.0,Thailand,Double Room with Balcony,Family,12,2022
+couldn’t stay longer,0.0,positive,10.0,United Kingdom,Two-Bedroom Suite,Family,10,2022
+,0.0,positive,10.0,United States of America,Two-Bedroom Suite,Couple,12,2022
+receptionist didnt speak english properli feel peopl live hotel rather stay hotel hear airplan come leav airport time sensit sound around night better skip hotel choos differ one,0.2590909090909091,positive,8.0,Bosnia and Herzegovina,Double Room,Couple,11,2022
+noth realli though stay day bit edg larnaca frequent bu centr,0.1,positive,9.0,United Kingdom,Double Room with Balcony,Couple,12,2022
+,0.0,positive,10.0,United Kingdom,Double Room with Balcony,Group,11,2022
+,0.0,positive,10.0,Germany,Double Room with Balcony,Couple,11,2022
+noth consid price,0.0,positive,9.0,United Kingdom,Double Room with Balcony,Couple,11,2022
+,0.0,positive,8.0,Finland,Double Room with Balcony,Couple,10,2022
+,0.0,positive,10.0,Israel,Budget Twin Room,Solo traveler,11,2022
+,0.0,positive,10.0,Netherlands,Double Room with Balcony,Solo traveler,11,2022
+fridg could put beforehand cold shower took get hot cold shower one morn need get earli left run around min got warm good shower order pizza one night great stodgi im sure food better restaur area nice staff accomod,0.275,positive,9.0,United Kingdom,Double Room with Balcony,Solo traveler,11,2022
+,0.0,positive,9.0,Italy,Two-Bedroom Suite,Family,11,2022
+,0.0,positive,10.0,Greece,Double Room,Family,11,2022
+,0.0,positive,10.0,Hungary,Budget Twin Room,Family,11,2022
+leavingin fact book hotel week time,0.0,positive,10.0,Thailand,Double Room with Balcony,Family,11,2022
+noth,0.0,positive,10.0,Cyprus,Double Room with Balcony,Couple,11,2022
+surround build construct poorli lit,0.0,positive,9.0,Armenia,Double Room,Family,11,2022
+would like iron board room,0.0,positive,9.0,United States of America,Double Room with Balcony,Couple,11,2022
+applic,0.0,positive,10.0,United Kingdom,Double Room,Couple,11,2022
+good,0.7,positive,10.0,United Kingdom,Double Room with Balcony,Couple,11,2022
+noth,0.0,positive,10.0,Canada,Double Room with Balcony,Solo traveler,11,2022
+littl bit noisi even time street side believ doesnt disturb case choos garden view apart close window start air condit,0.0,positive,10.0,Ukraine,Double Room with Balcony,Solo traveler,11,2022
+hook wall towel etc,0.0,positive,8.0,United Kingdom,Suite with Balcony,Group,11,2022
+problem heat water time understand eventu couldnt manag proper shower hot water,0.125,positive,8.0,Cyprus,Double Room,Family,11,2022
+noth except show open time,0.0,positive,8.0,Cyprus,Budget Twin Room,Couple,10,2022
+noth realli bu airport close run everi minut,0.0,positive,9.0,United Kingdom,Double Room with Balcony,Couple,11,2022
+,0.0,positive,10.0,United Kingdom,Two-Bedroom Suite,Group,11,2022
+,0.0,positive,8.0,Turkey,Two-Bedroom Suite,Solo traveler,10,2022
+real observ net curtain blind one need ensur curtain close especi go shower room opposit apart clear view room,-0.05,positive,8.0,Portugal,Double Room with Balcony,Solo traveler,10,2022
+typic restaur area kitchen shut food afterward would flag ahead time welcom email arriv uk earli afternoon flight land someth like nut chip avail buy arriv,0.0,positive,9.0,United Kingdom,Double Room with Balcony,Couple,10,2022
+clean,0.3666666666666667,positive,10.0,Lebanon,Double Room with Balcony,Solo traveler,10,2022
+,0.0,positive,8.0,United Kingdom,Double Room,Solo traveler,10,2022
+outsid noisi later even that within hotel control,0.0,positive,8.0,United Kingdom,Double Room with Balcony,Solo traveler,10,2022
+bit plane nois afternoon even right near takeoff end runway next departur morn problem,0.12857142857142856,positive,10.0,Ireland,Two-Bedroom Suite,Family,10,2022
+,0.0,positive,10.0,Israel,Double Room with Balcony,Couple,10,2022
+,0.0,positive,9.0,United Kingdom,Double Room,Group,10,2022
+,0.0,positive,9.0,Switzerland,Two-Bedroom Suite,Family,10,2022
+,0.0,positive,9.0,Israel,Two-Bedroom Suite,Family,10,2022
+soundproof,0.0,positive,10.0,Cyprus,Double Room,Family,10,2022
+,0.0,positive,10.0,United States of America,Two-Bedroom Suite,Group,10,2022
+noth,0.0,positive,10.0,Austria,Double Room with Balcony,Family,10,2022
+,0.0,positive,10.0,Poland,Double Room,Solo traveler,10,2022
+,0.0,positive,10.0,Cyprus,Double Room with Balcony,Family,10,2022
+lot mosquito,0.0,positive,9.0,Cyprus,Double Room with Balcony,Couple,9,2022
+given lot guest book prime locat near airport would’v great breakfast start rather that’ suggest everyth perfect one night stay,0.6333333333333333,positive,10.0,Belgium,Double Room with Balcony,Solo traveler,10,2022
+,0.0,positive,10.0,United States of America,Double Room with Balcony,Couple,10,2022
+room wasnt soundproof hear plane,0.0,positive,8.0,Israel,Double Room with Balcony,Family,10,2022
+na,0.0,positive,8.0,United Kingdom,Two-Bedroom Suite,Family,10,2022
+,0.0,positive,10.0,United Kingdom,Double Room with Balcony,Family,9,2022
+issu overnight stay,0.0,positive,8.0,United Kingdom,Double Room,Couple,10,2022
+like la veranda son fold bed could better especi consid comfort regular bed,0.25,positive,9.0,Israel,Standard Triple Room,Family,10,2022
+cannot find singl neg point…which unusu spent year travel part work perhap critic,-0.1,positive,10.0,United Arab Emirates,Budget Twin Room,Solo traveler,10,2022
+look quiet stay awar hotel realli close airport hear nois plane,0.0,positive,10.0,Israel,Double Room,Couple,10,2022
+na,0.0,positive,10.0,United Kingdom,Double Room with Balcony,Couple,10,2022
+,0.0,positive,9.0,Cyprus,Double Room,Couple,10,2022
+noth far,0.1,positive,8.0,Qatar,Budget Twin Room,Solo traveler,10,2022
+,0.0,positive,10.0,United Kingdom,Double Room,Solo traveler,10,2022
+,0.0,positive,10.0,Lebanon,Double Room with Balcony,Couple,9,2022
+noth,0.0,positive,10.0,United Kingdom,Double Room with Balcony,Family,10,2022
+shop pharmaci area accommod cannot anyth overal extrem satisfi,0.0,positive,10.0,Hungary,Double Room,Couple,9,2022
+,0.0,positive,9.0,Lebanon,Double Room,Solo traveler,10,2022
+,0.0,positive,10.0,Denmark,Double Room with Balcony,Solo traveler,9,2022
+,0.0,positive,10.0,Bulgaria,Double Room,Couple,9,2022
+disappoint didnt balconi,0.0,positive,8.0,Cyprus,Double Room,Couple,10,2022
+,0.0,positive,10.0,Jordan,Double Room with Balcony,Solo traveler,10,2022
+we’d love stay longer,0.5,positive,10.0,Belarus,Double Room with Balcony,Solo traveler,10,2022
+noth,0.0,positive,10.0,United Kingdom,Standard Triple Room,Family,10,2022
+good,0.7,positive,10.0,United Arab Emirates,Double Room with Balcony,Family,10,2022
+,0.0,positive,9.0,Netherlands,Budget Twin Room,Couple,9,2022
+hour recept easi access entri odd hour,-0.16666666666666666,positive,8.0,United Kingdom,Two-Bedroom Suite,Group,9,2022
+,0.0,positive,10.0,United States of America,Double Room with Balcony,Couple,9,2022
+locat littl bit far centr,0.1,positive,9.0,Armenia,Double Room,Couple,9,2022
+thing pool howev plenti chair sot outsid garden also spotlessli clean everywher,0.3666666666666667,positive,10.0,United Kingdom,Double Room with Balcony,Solo traveler,9,2022
+room wasnt clean check finish clean complaint,0.14444444444444446,positive,8.0,Slovakia,Double Room with Balcony,Family,8,2022
+love littl hotel friendli staff breakfast excel,0.5,positive,9.0,United Kingdom,Double Room with Balcony,Couple,9,2022
+,0.0,positive,10.0,United Kingdom,Double Room,Solo traveler,9,2022
+noth perfect stay,1.0,positive,9.6,United Kingdom,Double Room with Balcony,Solo traveler,9,2022
+na,0.0,positive,10.0,United Kingdom,Budget Twin Room,Family,9,2022
+park alway easi,0.0,positive,10.0,United Kingdom,Budget Twin Room,Couple,9,2022
+,0.0,positive,10.0,United Kingdom,Double Room with Balcony,Couple,9,2022
+bit badli soundproof,0.0,positive,8.0,Germany,Budget Twin Room,Couple,9,2022
+locat place wait posit next flight larnaka airport beach stay,0.0,positive,8.0,France,Double Room with Balcony,Family,9,2022
+,0.0,positive,10.0,Russia,Double Room with Balcony,Solo traveler,6,2022
+,0.0,positive,9.0,United Kingdom,Double Room with Balcony,Couple,9,2022
+towel dirti,0.0,positive,9.0,Israel,Double Room with Balcony,Couple,9,2022
+,0.0,positive,9.0,United Kingdom,Double Room with Balcony,Couple,9,2022
+,0.0,positive,9.0,Czech Republic,Budget Twin Room,Solo traveler,9,2022
+,0.0,positive,8.0,Italy,Double Room with Balcony,Couple,9,2022
+,0.0,positive,10.0,Bulgaria,Double Room with Balcony,Couple,9,2022
+cupboardswardrob need door drawer room keep room tidi,0.0,positive,9.0,United Kingdom,Double Room,Group,8,2022
+noth,0.0,positive,10.0,Lebanon,Double Room,Couple,9,2022
+soap shampoo shower hand soap instead,0.0,positive,8.0,Italy,Suite with Balcony,Group,8,2022
+,0.0,positive,10.0,Ukraine,Double Room with Balcony,Family,9,2022
+like everyth properti,0.0,positive,10.0,Serbia,Double Room,Couple,9,2022
+hotel staff learn better english confus term fridg freezer fatal person diabet team froze insulin mean unus luckili flew home next day happen holiday weve got entertain cover,0.046875,positive,9.0,Czech Republic,Two-Bedroom Suite,Family,9,2022
+noth,0.0,positive,9.0,Cyprus,Double Room with Balcony,Couple,9,2022
+noth,0.0,positive,9.0,United Kingdom,Double Room with Balcony,Couple,9,2022
+,0.0,positive,10.0,United Kingdom,Double Room with Balcony,Family,9,2022
+,0.0,positive,10.0,Lebanon,Double Room,Solo traveler,9,2022
+noth,0.0,positive,8.0,Cyprus,Double Room,Couple,9,2022
+nice restaur good food servic,0.6499999999999999,positive,9.0,United Kingdom,Double Room,Couple,8,2022
+,0.0,positive,10.0,Serbia,Double Room,Family,8,2022
+complaint,-0.3,positive,9.0,United Kingdom,Two-Bedroom Suite,Family,9,2022
+,0.0,positive,10.0,Serbia,Double Room,Solo traveler,9,2022
+,0.0,positive,10.0,Austria,Standard Triple Room,Family,8,2022
+,0.0,positive,8.0,Austria,Double Room,Couple,8,2022
+,0.0,positive,10.0,Israel,Double Room with Balcony,Couple,8,2022
+like everyth,0.0,positive,10.0,United Kingdom,Double Room,Solo traveler,7,2022
+room small adequ,-0.25,positive,9.0,United States of America,Budget Twin Room,Group,8,2022
+hair shampoo gener basic amen,0.0,positive,8.0,Cyprus,Double Room with Balcony,Couple,8,2022
+noth,0.0,positive,10.0,United Kingdom,Double Room with Balcony,Couple,8,2022
+area littl noisi stay,0.0,positive,9.0,Israel,Two-Bedroom Suite,Family,8,2022
+,0.0,positive,10.0,Lebanon,Double Room with Balcony,Couple,8,2022
+taxi driver cooper hotel time airport back charg eur price agre hotel eur clarifi money would certainli give money tip feel someon cheat still money realli awkward ugli especi alon small child middl night altern way transport,-0.2833333333333333,positive,10.0,Serbia,Double Room with Balcony,Family,8,2022
+bit loud outsid normal summertim guess,0.125,positive,9.0,Belgium,Double Room with Balcony,Solo traveler,8,2022
+,0.0,positive,10.0,United Kingdom,Double Room with Balcony,Group,8,2022
+,0.0,positive,10.0,Lebanon,Double Room,Solo traveler,8,2022
+,0.0,positive,10.0,Cyprus,Double Room,Couple,8,2022
+,0.0,positive,9.0,Cyprus,Double Room with Balcony,Solo traveler,8,2022
+locat hotel bit far citi centr take bu arriv fairli often station near hotel,0.1,positive,9.0,Romania,Double Room with Balcony,Couple,8,2022
+,0.0,positive,10.0,Netherlands,Double Room with Balcony,Solo traveler,8,2022
+swim pool,0.0,positive,9.0,Israel,Two-Bedroom Suite,Family,8,2022
+,0.0,positive,10.0,United Kingdom,Double Room with Balcony,Couple,8,2022
+,0.0,positive,10.0,United Kingdom,Two-Bedroom Suite,Family,8,2022
+,0.0,positive,10.0,Israel,Family Suite with Balcony,Family,8,2022
+smell bathroom,0.0,positive,9.0,Romania,Double Room,Couple,8,2022
+,0.0,positive,10.0,Poland,Double Room,Solo traveler,8,2022
+slow elev,-0.30000000000000004,positive,8.0,Cyprus,Two-Bedroom Suite,Solo traveler,8,2022
+,0.0,positive,10.0,Russia,Double Room,Family,8,2022
+noth like fabul place,0.0,positive,10.0,United Kingdom,Two-Bedroom Suite,Family,8,2022
+noth,0.0,positive,9.0,France,Standard Triple Room,Group,8,2022
+,0.0,positive,10.0,United Kingdom,Two-Bedroom Suite,Group,8,2022
+,0.0,positive,9.0,Israel,Suite with Balcony,Family,8,2022
+everyth perfect,1.0,positive,10.0,Romania,Double Room with Balcony,Couple,8,2022
+noth,0.0,positive,10.0,United Kingdom,Double Room with Balcony,Couple,8,2022
+,0.0,positive,10.0,United States of America,Standard Triple Room,Family,5,2022
+noth,0.0,positive,10.0,Venezuela,Standard Triple Room,Family,6,2022
+noth hotel quick path beachsid cafe bit treacher,0.3333333333333333,positive,10.0,United Kingdom,Double Room with Balcony,Couple,8,2022
+kiosk open hour close hotel,0.0,positive,10.0,Israel,Double Room,Couple,8,2022
+,0.0,positive,10.0,United Kingdom,Standard Triple Room,Family,7,2022
+late check one hotel give u key door lock ask taxi driver make call cypru number,-0.15,positive,9.0,Israel,Double Room,Group,7,2022
+noth,0.0,positive,10.0,United Kingdom,Two-Bedroom Suite,Family,7,2022
+would like tv channel like rt russia today,0.0,positive,8.0,Spain,Double Room with Balcony,Solo traveler,7,2022
+,0.0,positive,10.0,Spain,Double Room with Balcony,Family,7,2022
+,0.0,positive,10.0,Lebanon,Double Room with Balcony,Solo traveler,7,2022
+,0.0,positive,10.0,Slovenia,Standard Triple Room,Family,7,2022
+,0.0,positive,10.0,Australia,Double Room,Solo traveler,7,2022
+,0.0,positive,9.0,Sweden,Double Room,Couple,7,2022
+like everyth,0.0,positive,10.0,New Zealand,Double Room with Balcony,Solo traveler,7,2022
+noth,0.0,positive,10.0,Cyprus,Double Room with Balcony,Couple,7,2022
+,0.0,positive,9.0,Germany,Double Room,Solo traveler,6,2022
+,0.0,positive,10.0,United Kingdom,Double Room with Balcony,Couple,7,2022
+noth,0.0,positive,10.0,United Kingdom,Double Room with Balcony,Couple,7,2022
+,0.0,positive,10.0,Kuwait,Two-Bedroom Suite,Family,7,2022
+note,0.0,positive,10.0,Cyprus,Two-Bedroom Suite,Group,7,2022
+perfect,1.0,positive,10.0,Lebanon,Double Room with Balcony,Solo traveler,7,2022
+,0.0,positive,10.0,Lebanon,Two-Bedroom Suite,Family,7,2022
+like everyth,0.0,positive,10.0,United States of America,Double Room with Balcony,Couple,7,2022
+,0.0,positive,10.0,Israel,Double Room,Solo traveler,7,2022
+wasnt big issu came hotel doesnt park lot sometim might difficult find park spot,-0.25,positive,9.0,Czech Republic,Double Room,Couple,7,2022
+,0.0,positive,10.0,Germany,Double Room with Balcony,Solo traveler,7,2022
+clean bed linen soo comfi everyth smell good,0.5333333333333333,positive,10.0,United States of America,Double Room with Balcony,Solo traveler,7,2022
+good,0.7,positive,10.0,Cyprus,Double Room with Balcony,Solo traveler,7,2022
+,0.0,positive,10.0,Cyprus,Double Room with Balcony,Group,7,2022
+,0.0,positive,8.0,Cyprus,Double Room with Balcony,Couple,7,2022
+noth complain,0.0,positive,8.0,Sweden,Double Room with Balcony,Couple,7,2022
+,0.0,positive,10.0,United Kingdom,Double Room with Balcony,Couple,7,2022
+better tv channel select would good even,0.6,positive,8.0,United Kingdom,Double Room with Balcony,Solo traveler,6,2022
+ac bit loud peopl next hotel also loud heard room,0.06666666666666667,positive,8.0,Cyprus,Double Room,Couple,7,2022
+,0.0,positive,10.0,Cyprus,Suite with Balcony,Group,7,2022
+,0.0,positive,10.0,Lithuania,Double Room with Balcony,Group,7,2022
+,0.0,positive,9.0,Germany,Double Room with Balcony,Solo traveler,7,2022
+,0.0,positive,9.0,Romania,Standard Triple Room,Family,7,2022
+noth hotel terrif locat near airport look need access car use hotel base,-0.35000000000000003,positive,10.0,United States of America,Double Room with Balcony,Solo traveler,7,2022
+,0.0,positive,9.0,United States of America,Budget Twin Room,Solo traveler,7,2022
+,0.0,positive,10.0,United States of America,Double Room,Group,7,2022
+,0.0,positive,10.0,United Kingdom,Double Room,Family,7,2022
+,0.0,positive,10.0,United Kingdom,Two-Bedroom Suite,Family,7,2022
+room rather small lack balconi make lot differ one previou stay,-0.25,positive,8.0,Cyprus,Double Room,Couple,7,2022
+,0.0,positive,9.0,United Kingdom,Standard Triple Room,Family,7,2022
+,0.0,positive,10.0,France,Double Room with Balcony,Solo traveler,7,2022
+,0.0,positive,10.0,United Kingdom,Suite with Balcony,Family,7,2022
+,0.0,positive,9.0,Bulgaria,Double Room with Balcony,Couple,7,2022
+close beach perfect pre post airport stay,1.0,positive,10.0,United Kingdom,Double Room with Balcony,Solo traveler,6,2022
+mattress hard book room promot bookingcom didnt appli pay euro check new date book similar number big fraud,-0.03882575757575758,positive,9.0,Bulgaria,Budget Twin Room,Couple,6,2022
+,0.0,positive,10.0,Sweden,Double Room with Balcony,Solo traveler,7,2022
+,0.0,positive,10.0,Finland,Two-Bedroom Suite,Family,7,2022
+,0.0,positive,10.0,Cyprus,Double Room with Balcony,Couple,7,2022
+,0.0,positive,10.0,United Kingdom,Two-Bedroom Suite,Family,6,2022
+none,0.0,positive,9.0,"Abkhazia, ​Georgia",Two-Bedroom Suite,Family,6,2022
+,0.0,positive,10.0,Israel,Double Room with Balcony,Family,6,2022
+,0.0,positive,10.0,Finland,Double Room,Couple,6,2022
+,0.0,positive,9.0,United Kingdom,Double Room with Balcony,Couple,6,2022
+,0.0,positive,8.0,Canada,Double Room with Balcony,Solo traveler,6,2022
+,0.0,positive,9.0,United Kingdom,Double Room,Couple,6,2022
+,0.0,positive,9.0,United Kingdom,Double Room with Balcony,Solo traveler,6,2022
+hair floor previou visitor better cleaner,0.5,positive,8.0,Israel,Budget Twin Room,Solo traveler,6,2022
+bit noisi could everyth,0.0,positive,8.0,Bulgaria,Double Room with Balcony,Couple,6,2022
+,0.0,positive,10.0,Russia,Family Suite with Balcony,Family,6,2022
+like everythingz close airport town half hour walk town,-0.16666666666666666,positive,10.0,United Kingdom,Double Room,Couple,6,2022
+noth didnt like,0.0,positive,10.0,United Kingdom,Two-Bedroom Suite,Group,5,2022
+bathroom smell bad,-0.6999999999999998,positive,8.0,Romania,Double Room with Balcony,Family,6,2022
+,0.0,positive,9.0,United Kingdom,Double Room,Solo traveler,5,2022
+,0.0,positive,9.0,United Kingdom,Double Room,Couple,5,2022
+,0.0,positive,9.0,China,Double Room with Balcony,Couple,6,2022
+everyth,0.0,positive,10.0,Cyprus,Double Room with Balcony,Family,6,2022
+noth good,0.7,positive,10.0,Greece,Double Room with Balcony,Solo traveler,5,2022
+noth sometim bit noisi air traffic,0.0,positive,10.0,Germany,Double Room with Balcony,Group,6,2022
+tv light choic news channel english,0.2,positive,9.0,United Kingdom,Double Room with Balcony,Solo traveler,6,2022
+could turn mini fridg cool water bottl overnight readi follow day late go ask didnt probabl someth show guest initi,0.024999999999999994,positive,9.0,United Kingdom,Double Room with Balcony,Couple,5,2022
+,0.0,positive,9.0,Israel,Double Room,Couple,6,2022
+,0.0,positive,10.0,France,Double Room with Balcony,Group,6,2022
+complaint hotel park area alway possibl necessarili conveni,-0.3,positive,9.0,Cyprus,Double Room with Balcony,Couple,6,2022
+noth,0.0,positive,10.0,United Kingdom,Double Room,Couple,6,2022
+except excel staffown ok restaur much extra hotel room tip improv outoford pool tabl hidden away backyard brought back life backyard could actual use much better small fridg room warm turn upon arriv complet empti local shopkiosk nearbi fill one small bottl water upon arriv doubl room feel littl poor would gladli paid € per day bottl initi refil daili room servic coupl cent even tea small welcom tray bathroom floor get complet wet care shower half glass wall cover shower bed frame sharphard corner easi get hurt appli babi safeti corner veranda door main door doesnt close entir tight main door slam night windi howev fixabl macgyv way use bed cover tea spoon although profession seal attach door frame would probabl better fix longterm beach towel servic would also nice use avoid use lot spaceweight baggag hotel great still room improv mani littl detail could easili fix still get high rate staff simpli best made stay true pleasur thu comment scare anyon book hotel highli recommend would definit love return,0.1700595238095238,positive,9.0,Sweden,Double Room with Balcony,Couple,5,2022
+,0.0,positive,10.0,United Kingdom,Suite with Balcony,Family,6,2022
+hospit locat quiet,0.0,positive,10.0,Switzerland,Standard Triple Room,Family,6,2022
+,0.0,positive,9.0,Lithuania,Suite with Balcony,Family,6,2022
+good noth bad say,5.551115123125783e-17,positive,9.0,United Kingdom,Double Room with Balcony,Couple,5,2022
+,0.0,positive,9.0,Cyprus,Double Room with Balcony,Couple,5,2022
+noth great price purpos late night flight arriv,0.25,positive,10.0,Iceland,Two-Bedroom Suite,Family,5,2022
+like everyth littl far local shop everyth need cafe,0.05,positive,9.0,United Kingdom,Suite with Balcony,Family,5,2022
+noth good,0.7,positive,10.0,United Kingdom,Double Room with Balcony,Couple,5,2022
+,0.0,positive,10.0,Jordan,Double Room with Balcony,Solo traveler,5,2022
+noth,0.0,positive,10.0,Australia,Double Room,Solo traveler,5,2022
+,0.0,positive,10.0,United Kingdom,Double Room,Group,5,2022
+stingi smell bathroom quit small room,-0.25,positive,8.0,Finland,Double Room,Couple,5,2022
+safeti strip step floor come stair unawar could possibl trip,0.0,positive,8.0,United Kingdom,Double Room,Solo traveler,5,2022
+noth,0.0,positive,10.0,United Kingdom,Double Room with Balcony,Solo traveler,5,2022
+price random unlabel shampoo dispens attach shower wall dont know bodi hair shampoo wasnt nice seem littl cheap consid hotel cost,0.16666666666666666,positive,9.0,Belgium,Double Room,Solo traveler,5,2022
+noth,0.0,positive,8.0,Cyprus,Double Room with Balcony,Group,5,2022
+good,0.7,positive,10.0,United Kingdom,Double Room with Balcony,Couple,5,2022
+noth,0.0,positive,8.0,Lebanon,Double Room with Balcony,Couple,5,2022
+noth think,0.0,positive,10.0,Romania,Double Room with Balcony,Couple,5,2022
+locat bit hard find taxi driver gp troubl find eventu it’ amongst sever apart build small side street,-0.27083333333333337,positive,9.0,United States of America,Double Room with Balcony,Family,5,2022
+good locat,0.7,positive,10.0,United Kingdom,Double Room with Balcony,Couple,5,2022
+lack decent tv channel even past pm actual find someth watch channel half greek half russian mayb one two english even,-0.05208333333333333,positive,10.0,Czech Republic,Double Room with Balcony,Solo traveler,5,2022
+,0.0,positive,9.0,Cyprus,Budget Twin Room,Couple,5,2022
+,0.0,positive,10.0,United States of America,Double Room with Balcony,Group,5,2022
+,0.0,positive,10.0,Slovenia,Double Room,Couple,5,2022
+,0.0,positive,8.0,Cyprus,Double Room with Balcony,Couple,5,2022
+noth,0.0,positive,9.0,Cyprus,Double Room,Solo traveler,5,2022
+noth,0.0,positive,10.0,United Kingdom,Double Room with Balcony,Couple,4,2022
+,0.0,positive,10.0,Germany,Double Room with Balcony,Couple,5,2022
+noth,0.0,positive,9.0,United Kingdom,Double Room,Couple,5,2022
+,0.0,positive,9.0,United Kingdom,Double Room,Couple,4,2022
+wasnt like,0.0,positive,10.0,Hungary,Double Room,Couple,4,2022
+thing bathroom floor got wet shower becam slipperi need two foot towel rather one,-0.1,positive,10.0,United Kingdom,Double Room with Balcony,Couple,4,2022
+,0.0,positive,9.0,Hungary,Suite with Balcony,Family,4,2022
+,0.0,positive,10.0,Germany,Family Suite with Balcony,Group,4,2022
+noth,0.0,positive,10.0,United Kingdom,Double Room with Balcony,Couple,4,2022
+,0.0,positive,10.0,Czech Republic,Family Suite with Balcony,Family,4,2022
+,0.0,positive,8.0,Cyprus,Standard Triple Room,Family,4,2022
+,0.0,positive,8.0,United Kingdom,Double Room with Balcony,Couple,4,2022
+,0.0,positive,9.0,Israel,Double Room,Couple,4,2022
+,0.0,positive,8.0,United Kingdom,Family Suite with Balcony,Family,3,2022
+noth realli,0.0,positive,10.0,United Kingdom,Double Room with Balcony,Couple,4,2022
+noth,0.0,positive,10.0,United Kingdom,Standard Triple Room,Family,4,2022
+,0.0,positive,9.0,Ukraine,Double Room,Family,2,2022
+,0.0,positive,10.0,Lebanon,Double Room,Solo traveler,4,2022
+noth great,0.8,positive,10.0,Lebanon,Double Room,Solo traveler,4,2022
+,0.0,positive,10.0,France,Double Room,Solo traveler,4,2022
+,0.0,positive,10.0,Lebanon,Double Room,Solo traveler,4,2022
+,0.0,positive,10.0,Lebanon,Double Room,Solo traveler,4,2022
+lock window didn’t seem secur,0.0,positive,8.0,United Kingdom,Double Room with Balcony,Solo traveler,3,2022
+want shower shampoo bodi soap hair condition staff explain dispanc shower hold realli,0.0,positive,9.0,Israel,Double Room,Solo traveler,3,2022
+,0.0,positive,9.0,Austria,Double Room,Couple,3,2022
+,0.0,positive,8.0,United States of America,Double Room with Balcony,Couple,3,2022
+immedi locat wasn’t inspir love restaur close sea front handi limassol airport,0.5,positive,8.0,United Kingdom,Two-Bedroom Suite,Family,2,2022
+,0.0,positive,10.0,United Kingdom,Double Room,Solo traveler,2,2022
+,0.0,positive,9.0,Poland,Double Room,Couple,2,2022
+good,0.7,positive,10.0,United Kingdom,Double Room,Solo traveler,2,2022
+view room,0.0,positive,8.0,France,Family Suite with Balcony,Family,2,2022
+take long hot water reach tapshow room,0.1,positive,8.0,Bulgaria,Double Room,Solo traveler,2,2022
+,0.0,positive,9.0,United Kingdom,Double Room with Balcony,Group,2,2022
+smell bathroomwat,0.0,positive,8.0,Cyprus,Double Room with Balcony,Couple,1,2022
+,0.0,positive,8.0,Poland,Double Room with Balcony,Group,12,2021
+room maintain well nois insul typic area,0.0,positive,10.0,United Kingdom,Double Room,Solo traveler,12,2021
+,0.0,positive,10.0,United Kingdom,Double Room,Solo traveler,12,2021
+,0.0,positive,10.0,Ukraine,Standard Triple Room,Family,12,2021
+smart televis work,0.21428571428571427,positive,8.0,Cyprus,Double Room with Balcony,Couple,12,2021
+good,0.7,positive,10.0,Ireland,Double Room,Solo traveler,12,2021
+ok,0.5,positive,8.0,Netherlands,Double Room,Couple,11,2021
+thing,0.0,positive,10.0,Russia,Double Room with Balcony,Solo traveler,12,2021
+tv channel fix,0.0,positive,10.0,Cyprus,Double Room with Balcony,Solo traveler,12,2021
+,0.0,positive,10.0,United Kingdom,Double Room,Couple,12,2021
+,0.0,positive,10.0,United Kingdom,Double Room,Couple,11,2021
+,0.0,positive,10.0,Lebanon,Double Room,Solo traveler,11,2021
+cold swim,-0.6,positive,10.0,Lebanon,Double Room with Balcony,Solo traveler,11,2021
+,0.0,positive,10.0,Lebanon,Double Room,Couple,11,2021
+,0.0,positive,9.0,United Kingdom,Two-Bedroom Suite,Family,11,2021
+,0.0,positive,10.0,Switzerland,Double Room with Balcony,Couple,11,2021
+weather bit cold,-0.6,positive,10.0,Lebanon,Double Room,Solo traveler,11,2021
+,0.0,positive,10.0,Canada,Double Room,Couple,10,2021
+good place excel stuff come back,0.35,positive,10.0,Israel,Two-Bedroom Suite,Family,11,2021
+,0.0,positive,9.0,Czech Republic,Double Room with Balcony,Couple,10,2021
+noth soo nice cosi made feel welcom first moment arriv,0.425,positive,9.0,United Kingdom,Double Room with Balcony,Solo traveler,11,2021
+,0.0,positive,9.0,Czech Republic,Double Room with Balcony,Solo traveler,10,2021
+good,0.7,positive,10.0,Russia,Family Suite with Balcony,Family,10,2021
+noth,0.0,positive,9.0,United Kingdom,Double Room with Balcony,Couple,10,2021
+pool tini bathroom smell like bad plumb,-0.6999999999999998,positive,9.0,Spain,Double Room,Family,10,2021
+,0.0,positive,10.0,Belgium,Double Room with Balcony,Couple,10,2021
+noth mayb could leav water,0.0,positive,10.0,Netherlands,Double Room with Balcony,Family,10,2021
+,0.0,positive,10.0,United Kingdom,Double Room with Balcony,Couple,10,2021
+reason complain everyth great,0.8,positive,10.0,United Kingdom,Double Room with Balcony,Solo traveler,10,2021
+noth,0.0,positive,9.0,Spain,Double Room with Balcony,Couple,10,2021
+refurbish total complet safeti box wasn’t work room famili suit peopl could one doubl hook bathroom towel,0.0,positive,9.0,Denmark,Family Suite with Balcony,Family,10,2021
+,0.0,positive,9.0,Denmark,Double Room with Balcony,Solo traveler,10,2021
+,0.0,positive,9.0,United Kingdom,Double Room with Balcony,Solo traveler,9,2021
+,0.0,positive,9.0,United Kingdom,Double Room with Balcony,Solo traveler,10,2021
+restaur,0.0,positive,10.0,United States of America,Family Suite with Balcony,Group,10,2021
+locat want center everyth didnt,-0.1,positive,8.0,Jordan,Double Room with Balcony,Solo traveler,10,2021
+nois hallway loud door sound proof couldnt sleep nois come around,0.25,positive,8.0,Romania,Double Room with Balcony,Group,10,2021
+smell lake doesn’t depend hotel,0.0,positive,10.0,Ukraine,Two-Bedroom Suite,Group,10,2021
+,0.0,positive,9.0,Ukraine,Double Room with Balcony,Solo traveler,10,2021
+,0.0,positive,9.0,Sweden,Double Room,Couple,10,2021
+room bit cramp could fit may uniqu case rather disturb odor sewag came drain smell could felt street day well,0.4,positive,9.0,Hungary,Double Room with Balcony,Couple,10,2021
+,0.0,positive,9.0,Ukraine,Double Room with Balcony,Couple,10,2021
+noth perfect,1.0,positive,10.0,Germany,Double Room with Balcony,Solo traveler,10,2021
+spot,0.0,positive,10.0,United Kingdom,Double Room with Balcony,Group,10,2021
+wifi room wasnt great work day need strong wifi cafe nero minut away perfect,0.7444444444444445,positive,9.0,United Kingdom,Double Room,Solo traveler,9,2021
+size room bit small,-0.25,positive,10.0,United States of America,Double Room,Couple,10,2021
+noth,0.0,positive,10.0,Qatar,Double Room with Balcony,Solo traveler,10,2021
+,0.0,positive,10.0,United Kingdom,Double Room with Balcony,Couple,9,2021
+couldn’t fault,0.0,positive,10.0,United Kingdom,Double Room with Balcony,Couple,9,2021
+noth,0.0,positive,9.0,Australia,Double Room,Solo traveler,9,2021
+th floor window balconi door lock could still hear outsid nois,0.0,positive,9.0,Cyprus,Double Room with Balcony,Couple,9,2021
+thing,0.0,positive,10.0,Russia,Double Room with Balcony,Solo traveler,9,2021
+bit farther away hotel bit trek get get busier beach bar area good water sport quieter beach,0.7,positive,10.0,United Kingdom,Standard Triple Room,Solo traveler,7,2021
+,0.0,positive,10.0,United Kingdom,Double Room,Couple,8,2021
+,0.0,positive,10.0,Russia,Double Room with Balcony,Group,9,2021
+good,0.7,positive,9.0,United Kingdom,Standard Triple Room,Couple,9,2021
+not,0.0,positive,9.0,United Kingdom,Double Room,Solo traveler,9,2021
+,0.0,positive,10.0,United Kingdom,Double Room with Balcony,Solo traveler,9,2021
+book taxi airport show,0.0,positive,10.0,United Kingdom,Double Room with Balcony,Couple,9,2021
+happi everyth,0.0,positive,10.0,United Kingdom,Double Room,Couple,9,2021
+aircraft nois bother nois aircraft land take may issu young famili want quiet area,0.05,positive,8.0,United Kingdom,Double Room with Balcony,Solo traveler,9,2021
+slight smell toilet night pretti far major tourist spot,-0.009374999999999994,positive,9.0,Poland,Double Room with Balcony,Couple,9,2021
+noth didn’t like,0.0,positive,9.0,Cyprus,Double Room with Balcony,Couple,9,2021
+,0.0,positive,10.0,United Kingdom,Double Room with Balcony,Family,9,2021
+,0.0,positive,10.0,Czech Republic,Double Room,Group,9,2021
+weak wifi hotel new staff although friendli still need improv organis collabor pool tini far centr town,-0.04621212121212121,positive,9.0,Spain,Double Room with Balcony,Solo traveler,9,2021
+,0.0,positive,10.0,United Arab Emirates,Double Room with Balcony,Solo traveler,9,2021
+noth complain,0.0,positive,9.0,Russia,Double Room with Balcony,Family,9,2021
+,0.0,positive,10.0,United Kingdom,Double Room with Balcony,Family,9,2021
+,0.0,positive,9.0,Lebanon,Double Room with Balcony,Couple,9,2021
+na,0.0,positive,8.0,Slovakia,Standard Triple Room,Group,8,2021
+good locat nice atmospher,0.6499999999999999,positive,10.0,Australia,Double Room with Balcony,Solo traveler,8,2021
+,0.0,positive,10.0,Norway,Double Room with Balcony,Solo traveler,8,2021
+,0.0,positive,8.0,Angola,Double Room with Balcony,Couple,8,2021
+,0.0,positive,10.0,Poland,Double Room with Balcony,Couple,8,2021
+,0.0,positive,10.0,Hungary,Double Room with Balcony,Couple,8,2021
+,0.0,positive,10.0,United Kingdom,Standard Triple Room,Family,8,2021
+,0.0,positive,9.0,Austria,Standard Triple Room,Family,7,2021
+,0.0,positive,10.0,United Kingdom,Double Room with Balcony,Couple,8,2021
+,0.0,positive,10.0,Spain,Two-Bedroom Suite,Family,8,2021
+noth,0.0,positive,10.0,Germany,Standard Triple Room,Group,8,2021
+mostli bathroom floor sink close tape bug think special case dont think hotel room issu,0.35714285714285715,positive,8.0,Saudi Arabia,Double Room with Balcony,Couple,8,2021
+noth,0.0,positive,10.0,United Kingdom,Double Room with Balcony,Couple,8,2021
+wifi,0.0,positive,10.0,Ukraine,Family Suite with Balcony,Group,8,2021
+tv channel big problem,0.0,positive,9.0,Lithuania,Double Room with Balcony,Solo traveler,8,2021
+,0.0,positive,10.0,Russia,Double Room with Balcony,Couple,7,2021
+pool could bigger you’r right next amaz beach “mckenzi beach” didn’t matter,0.09523809523809523,positive,10.0,United Kingdom,Double Room,Family,8,2021
+,0.0,positive,8.0,United Kingdom,Double Room with Balcony,Solo traveler,8,2021
+,0.0,positive,10.0,United Kingdom,Double Room with Balcony,Family,8,2021
+,0.0,positive,10.0,Cyprus,Double Room,Couple,8,2021
+,0.0,positive,10.0,France,Double Room with Balcony,Solo traveler,8,2021
+,0.0,positive,10.0,Russia,Family Suite with Balcony,Family,8,2021
+option breakfast,0.0,positive,10.0,Czech Republic,Double Room with Balcony,Couple,7,2021
+,0.0,positive,10.0,United Kingdom,Double Room with Balcony,Couple,8,2021
+,0.0,positive,8.0,Lebanon,Double Room with Balcony,Couple,8,2021
+didn’t find anyth neg,0.0,positive,10.0,Ukraine,Two-Bedroom Suite,Family,8,2021
+,0.0,positive,10.0,Saudi Arabia,Double Room with Balcony,Solo traveler,8,2021
+,0.0,positive,10.0,United Kingdom,Double Room with Balcony,Solo traveler,8,2021
+noth neg say properti wonder stay n,0.0,positive,10.0,United States of America,Two-Bedroom Suite,Family,8,2021
+noth,0.0,positive,10.0,United Kingdom,Family Suite with Balcony,Family,7,2021
+noth,0.0,positive,10.0,United Arab Emirates,Double Room with Balcony,Solo traveler,8,2021
+noth,0.0,positive,10.0,Lebanon,Double Room with Balcony,Family,7,2021
+,0.0,positive,9.0,United Arab Emirates,Family Suite with Balcony,Family,7,2021
+close surround excit clean,0.3666666666666667,positive,9.0,Cyprus,Double Room with Balcony,Family,7,2021
+,0.0,positive,10.0,Cyprus,Standard Triple Room,Family,7,2021
+,0.0,positive,8.0,Malta,Double Room with Balcony,Family,7,2021
+,0.0,positive,10.0,United Kingdom,Double Room with Balcony,Group,7,2021
+,0.0,positive,10.0,Germany,Double Room with Balcony,Solo traveler,7,2021
+need renov lobbi common area well elev night light common area didnt work well,-0.06666666666666665,positive,8.0,Cyprus,Double Room with Balcony,Solo traveler,6,2021
+,0.0,positive,8.0,Malta,Double Room with Balcony,Family,7,2021
+room small smallest think,-0.25,positive,8.0,Cyprus,Double Room with Balcony,Solo traveler,7,2021
+noth,0.0,positive,10.0,Saudi Arabia,Standard Triple Room,Solo traveler,7,2021
+would great cloth dryer balconi bathroom swim nowher dri wet cloth towel room clean hotel provid bottl water expens hotel demonstr care client one bottl check none rest night,0.3555555555555556,positive,8.0,Ukraine,Standard Triple Room,Couple,7,2021
+,0.0,positive,9.0,Cyprus,Double Room with Balcony,Solo traveler,7,2021
+,0.0,positive,10.0,Lebanon,Double Room with Balcony,Family,7,2021
+,0.0,positive,10.0,Czech Republic,Double Room with Balcony,Family,7,2021
+bit small room,-0.25,positive,9.0,Malta,Double Room with Balcony,Group,7,2021
+noth,0.0,positive,10.0,Cyprus,Double Room with Balcony,Solo traveler,7,2021
+lock balconi door broken howev sayd repair ask wasnt done lock wasnt close see problem caus door unlock theoret anyon could open door balconi nois street enter room crack almost broke shower door caus open shower door touch toilet,-0.10833333333333334,positive,8.0,Israel,Double Room with Balcony,Solo traveler,7,2021
+,0.0,positive,8.0,United Kingdom,Double Room with Balcony,Solo traveler,7,2021
+,0.0,positive,10.0,Switzerland,Double Room with Balcony,Solo traveler,7,2021
+,0.0,positive,10.0,Bahrain,Double Room with Balcony,Solo traveler,7,2021
+minor point bar hang cloth room thing felt miss improv stay,-0.05,positive,10.0,United Kingdom,Double Room with Balcony,Couple,7,2021
+,0.0,positive,10.0,Cyprus,Double Room with Balcony,Group,6,2021
+taller peopl care doorway lead elev headbumped…,0.0,positive,10.0,Lithuania,Double Room with Balcony,Solo traveler,6,2021
+,0.0,positive,10.0,Ireland,Double Room with Balcony,Group,7,2021
+,0.0,positive,9.0,United States of America,Two-Bedroom Suite,Family,6,2021
+,0.0,positive,10.0,Germany,Double Room with Balcony,Couple,6,2021
+,0.0,positive,10.0,Cyprus,Double Room with Balcony,Group,6,2021
+bottl hairbodi wash empti aircon one uncontrol speed adapt cy socket blanket warm summer night,0.6,positive,8.0,Russia,Double Room with Balcony,Couple,6,2021
+,0.0,positive,9.0,Bulgaria,Double Room with Balcony,Solo traveler,6,2021
+noth,0.0,positive,10.0,Ireland,Double Room with Balcony,Solo traveler,6,2021
+,0.0,positive,10.0,Israel,Double Room with Balcony,Solo traveler,6,2021
+wish stay longer,0.0,positive,10.0,Canada,Double Room with Balcony,Solo traveler,5,2021
+,0.0,positive,10.0,Denmark,Double Room with Balcony,Couple,5,2021
+noth,0.0,positive,10.0,United Arab Emirates,Double Room with Balcony,Solo traveler,5,2021
+,0.0,neutral,7.0,United States of America,Suite with Balcony,Family,11,2022
+breakfast could varieti cereal offer ordinari tea offer al earl grey proper plan tea hotel access wheelchair ramp eu regul steep realli need sort ramp right outsid danger surpris wasnt wheel ramp think bookingcom investig,0.07857142857142857,neutral,5.0,United Kingdom,Double Room with Balcony,Group,11,2022
+time nois week peopl pick rubbish larg lorri,0.0,neutral,7.0,United Kingdom,Double Room with Balcony,Solo traveler,11,2022
+beach front impress,0.0,neutral,7.0,United Kingdom,Double Room with Balcony,Group,11,2022
+enough pillow,0.0,neutral,6.0,United Kingdom,Budget Twin Room,Group,11,2022
+bed soft uncomfort park limit,0.1,neutral,6.0,Cyprus,Double Room with Balcony,Solo traveler,10,2022
+window close front build look right room,0.2857142857142857,neutral,7.0,Armenia,Budget Twin Room,Family,10,2022
+noth close mini mart restaur decent,0.16666666666666666,neutral,6.0,United States of America,Double Room with Balcony,Solo traveler,8,2022
+street park,0.0,neutral,7.0,Cyprus,Two-Bedroom Suite,Group,9,2022
+variou thing would love see improv list shower room inconvini place make mess insuffici coverag bathroom glass edg shower wall tile shower floor need replac hollow seem moldi bin rusti mirror weirdli place right sink due placement curtain lot light get room morn design park park wherev find request late check pm got appreci howev got call prompt u check normal time pm next custom would arriv exllain thay grant late check clerk apologis problem find import keep staff updat thing,0.03357142857142857,negative,4.0,Cyprus,Double Room with Balcony,Couple,9,2022
+kind unpleas smell bathroom,0.6,neutral,7.0,Germany,Standard Triple Room,Family,9,2022
+guesthous price like hotel,0.0,negative,3.0,Israel,Two-Bedroom Suite,Family,9,2022
+size room one smallest ever seen space suitcas wardrob sit area terrac sun hit time except earli morn money use pay better hotel valencia get one small water bottl,0.125,negative,4.0,Egypt,Double Room with Balcony,Family,8,2022
+get bit expens room bit small suit breakfast includ tri one time restaur low qualiti compar origin greek breakfast didnt eat,-0.08333333333333333,neutral,7.0,Germany,Two-Bedroom Suite,Couple,8,2022
+duvet winter even degre celsiu ac unbear simpl sheet bed either choic close ac go without cover could open window noisi also window soundproof whatsoev nois much gave duvet chanc got open window nois went leav catch flight am good night sleep also room hair dryer kettl could use plug fit socket hotel didnt provid adaptor use servic room either,0.25999999999999995,neutral,6.0,Cyprus,Double Room with Balcony,Couple,7,2022
+restaur offer rather narrow set choic compar list menu room quit small,-0.225,neutral,7.0,United Kingdom,Double Room,Solo traveler,4,2022
+bath room clean rather superfici medium nice hair remov,0.48333333333333334,neutral,6.0,Germany,Double Room with Balcony,Solo traveler,4,2022
+cold floor room,-0.6,neutral,7.0,Denmark,Double Room,Solo traveler,3,2022
+room littl cold hotel hadn’t yet open season littl hard find,-0.2972222222222222,neutral,7.0,United Kingdom,Two-Bedroom Suite,Family,3,2022
+season bar restaur pool clear book,0.09999999999999999,neutral,5.0,United Kingdom,Double Room,Solo traveler,1,2022
+couldn’t wait min fractur ankl need chang bandag ladi hous liter stand next door cleaner clean room left without chang bandag outsid street,0.12222222222222223,neutral,6.0,United Kingdom,Double Room with Balcony,Couple,11,2021
+breakfast averag,0.0,neutral,7.0,Poland,Standard Triple Room,Family,10,2021
+,0.0,neutral,6.0,Cyprus,Double Room with Balcony,Solo traveler,11,2021
+bed pillow uncomfort telli work properli,0.0,neutral,7.0,United Kingdom,Double Room,Solo traveler,11,2021
+complimentari coffeetea bedroom replenish first night one coffe sachet doubl room whatev use fridg also replenish thin curtain allow light come bedroom draw thick curtain want privaci,-0.012499999999999997,neutral,7.0,United Kingdom,Double Room with Balcony,Couple,10,2021
+book taxi morn go airport frustrat host didnt inform u taxi doubl book instead orden anoth u,0.0,neutral,7.0,Netherlands,Double Room with Balcony,Couple,10,2021
+,0.0,neutral,7.0,Jordan,Double Room with Balcony,Solo traveler,9,2021
+properti feel cold without warm invit atmospher it’ minimalist room nice size unfortun situat top outsid bar area twin bed provid pillow comfort shower bathroom open infront result whole floor wet properti great potenti care,0.25,neutral,5.0,Cyprus,Double Room with Balcony,Solo traveler,9,2021
+noth report,0.0,neutral,7.0,United Kingdom,Double Room with Balcony,Solo traveler,9,2021
+safe didn’t work back door balconi bedroom wouldn’t lock disturb sign didn’t work electron ask doubl bed got two singl bed next eachoth noisi guest wait minut someon come greet u check one desk guy desk told u paid took pictur passport hotel strang,0.16666666666666666,negative,1.0,United Kingdom,Family Suite with Balcony,Couple,9,2021
+noisi neighborhood,0.0,neutral,7.0,Poland,Double Room with Balcony,Solo traveler,8,2021
+locat great pool even consid overal hotel instal badli maintain it’ front pension close peopl could see colour underwear aircon strong we’d open window big mistak noisi i’v ask quiet room lift broke guy offend becaw ask see room paying… pictur room accur fot hotel instal pool look ‘pasithea apartments’,0.24666666666666667,neutral,5.0,Switzerland,Family Suite with Balcony,Family,8,2021
+free breakfast option howev book properti advanc higher price bookingcom reduc price travel date hotel refus accept lower price felt unfair charg twice cancel rebook mayb bookingcom issu hotel quit unhappi sinc justifi owner spoke ali bookingcom said cancel charg charg me need put lock bathroom shower glass door insid els get messi wifi good,0.2125,neutral,7.0,United Arab Emirates,Standard Triple Room,Group,7,2021
+way room furnish comfort,0.0,neutral,7.0,Qatar,Double Room,Solo traveler,8,2021
+noisi limit food option probabl renov work progress item readi exampl rod hanger wardrob safe wasn’t fix,0.5,neutral,5.0,United Arab Emirates,Double Room with Balcony,Solo traveler,7,2021
+tv work garbag truck pass incred nois,0.0,neutral,7.0,France,Double Room with Balcony,Couple,7,2021
+rate expens offer clean servic day stay empti garbag also ask fresh towel even hanger cloth closet,0.33333333333333337,neutral,7.0,Greece,Double Room with Balcony,Solo traveler,7,2021
+plumb complic twice moreov clean crew clean room threw box cooki next bag meant gift cooki made thessaloniki cost u euro ask seem owner brought trash room offer spray would accept edibl gift covid pandem caution nice tri refund u cooki lost feel bad write neg review kind howev thing near garbag thrown stuff next guest belong extrem disappoint dealt situat thought accept take edibl gift trash room continu noth happen,0.1666666666666667,negative,4.0,United States of America,Standard Triple Room,Family,7,2021
+,0.0,positive,10.0,United Kingdom,,Family,7,2022
+,0.0,positive,9.0,United Kingdom,,Family,6,2022
+wasn’t fan bathroom open window requir,0.0,positive,8.0,United Kingdom,,Group,6,2022
+noth,0.0,positive,10.0,United States of America,,Solo traveler,11,2021
+,0.0,positive,8.0,Russia,,Family,10,2021
+applic,0.0,positive,10.0,Hungary,,Solo traveler,9,2021
+swim pool could cleaner,0.0,positive,9.0,Czech Republic,,Solo traveler,9,2021
+,0.0,positive,10.0,Australia,,Group,9,2021
+,0.0,positive,8.0,United Kingdom,,Family,8,2021
+mayb littl way main town,0.16666666666666666,positive,10.0,United Kingdom,,Solo traveler,8,2021
+,0.0,positive,10.0,Germany,,Family,7,2021
+,0.0,positive,10.0,Cyprus,,Solo traveler,6,2021
+overpr facil your lucki may one park side poor lunch breakfast,-0.4,negative,1.0,Cyprus,,Couple,9,2021
+floor clean enough full dust water drain flood room,0.2388888888888889,positive,8.0,Israel,Double Room with Balcony,Solo traveler,12,2022
+,0.0,positive,10.0,Israel,Double Room with Balcony,Group,12,2022
+,0.0,positive,10.0,Israel,Double Room,Family,12,2022
+,0.0,positive,10.0,Israel,Double Room,Family,12,2022
+,0.0,positive,10.0,Switzerland,Double Room with Balcony,Solo traveler,11,2022
+noth,0.0,positive,9.0,France,Double Room,Couple,11,2022
+waze blame didnt like less help guid local explain second,-0.05555555555555555,positive,10.0,Israel,Double Room,Solo traveler,11,2022
+room soundproof enough,0.0,positive,8.0,Slovakia,Standard Triple Room,Family,11,2022
+main reason give highest rate nois neighbor hotelshous shower time day made unpleas nois problem seal close window,0.16666666666666666,positive,9.0,Bulgaria,Two-Bedroom Suite,Group,9,2022
+bit far town room bit small,-0.075,positive,8.0,France,Double Room,Family,11,2022
+,0.0,positive,10.0,Romania,Double Room,Family,11,2022
+thing slightli flaw water shower even lukewarm,0.0,positive,9.0,Israel,Double Room with Balcony,Family,11,2022
+,0.0,positive,10.0,France,Double Room with Balcony,Family,11,2022
+,0.0,positive,10.0,Austria,Budget Twin Room,Group,10,2022
+,0.0,positive,9.0,France,Double Room,Solo traveler,11,2022
+noth,0.0,positive,10.0,Belgium,Family Suite with Balcony,Family,11,2022
+nois room poorli soundproof hear neighbor move,0.0,positive,8.0,France,Two-Bedroom Suite,Family,10,2022
+bed duvet much thick suffoc underneath hard bed noisi due heavi use tile steadi stream travel arrivingdepart airport throughout night use hotel stopov night near airport,-0.15416666666666667,positive,8.0,France,Standard Triple Room,Family,11,2022
+,0.0,positive,10.0,Russia,Double Room,Solo traveler,10,2022
+,0.0,positive,9.0,Greece,Double Room,Couple,10,2022
+,0.0,positive,10.0,Israel,Family Suite with Balcony,Family,9,2022
+,0.0,positive,9.0,Poland,Suite with Balcony,Family,10,2022
+,0.0,positive,9.0,Austria,Standard Triple Room,Couple,10,2022
+access airport close easi bu know,0.0,positive,9.0,France,Double Room with Balcony,Family,10,2022
+,0.0,positive,10.0,Ukraine,Double Room,Couple,10,2022
+sure problem accommod guest upper apart didnt stop make nois am hand go car even though openair car park close real odyssey abl park leav car far away,0.19999999999999998,positive,8.0,Spain,Two-Bedroom Suite,Family,9,2022
+restaur hotel lobbi good although took rel long time food readi,0.32499999999999996,positive,9.0,Israel,Two-Bedroom Suite,Family,10,2022
+,0.0,positive,10.0,Denmark,Double Room,Family,10,2022
+environ bit unfriendli walk lot construct road bumpi,0.0,positive,10.0,Israel,Double Room,Family,10,2022
+,0.0,positive,10.0,Israel,Double Room with Balcony,Group,10,2022
+,0.0,positive,8.0,Germany,Budget Twin Room,Couple,9,2022
+noth,0.0,positive,9.0,Italy,Double Room with Balcony,Solo traveler,9,2022
+spent littl time hotel assess could improv posit experi use next time,-0.05,positive,9.0,Czech Republic,Double Room,Couple,10,2022
+,0.0,positive,9.0,Italy,Double Room with Balcony,Couple,10,2022
+,0.0,positive,10.0,France,Double Room,Solo traveler,9,2022
+cramp third bed child suitabl babi minimalist room accessori,0.0,positive,8.0,Israel,Double Room,Family,10,2022
+noth,0.0,positive,10.0,Italy,Double Room,Family,10,2022
+,0.0,positive,9.0,Israel,Double Room with Balcony,Family,10,2022
+room tight suitabl one night,-0.17857142857142858,positive,8.0,Israel,Two-Bedroom Suite,Family,10,2022
+,0.0,positive,10.0,Israel,Standard Triple Room,Family,10,2022
+,0.0,positive,9.0,Austria,Budget Twin Room,Couple,9,2022
+,0.0,positive,10.0,France,Double Room,Solo traveler,10,2022
+,0.0,positive,9.0,France,Double Room,Couple,10,2022
+,0.0,positive,10.0,Israel,Standard Triple Room,Family,10,2022
+,0.0,positive,10.0,France,Budget Twin Room,Family,10,2022
+noth,0.0,positive,10.0,France,Double Room with Balcony,Family,10,2022
+air condition cool enough,0.175,positive,9.0,Israel,Double Room with Balcony,Couple,10,2022
+,0.0,positive,10.0,France,Double Room with Balcony,Family,10,2022
+,0.0,positive,10.0,Czech Republic,Double Room,Couple,9,2022
+,0.0,positive,10.0,Israel,Double Room,Couple,9,2022
+,0.0,positive,8.0,Germany,Double Room with Balcony,Group,8,2022
+,0.0,positive,10.0,Belgium,Suite with Balcony,Family,8,2022
+anyth,0.0,positive,10.0,Honduras,Double Room with Balcony,Solo traveler,9,2022
+,0.0,positive,10.0,Hungary,Two-Bedroom Suite,Solo traveler,9,2022
+soundproof separ room plasterboard balconi furnitur set could refurbish set shampoo etc bathroom could offer pamper,0.0,positive,9.0,Cyprus,Double Room with Balcony,Couple,9,2022
+,0.0,positive,10.0,Switzerland,Double Room,Family,9,2022
+like rule,0.0,positive,10.0,Israel,Double Room with Balcony,Couple,9,2022
+,0.0,positive,8.0,Israel,Double Room,Solo traveler,9,2022
+,0.0,positive,10.0,France,Double Room,Group,9,2022
+,0.0,positive,10.0,Poland,Budget Twin Room,Solo traveler,9,2022
+,0.0,positive,10.0,France,Double Room,Solo traveler,9,2022
+,0.0,positive,8.0,Switzerland,Two-Bedroom Suite,Family,9,2022
+hot weather,0.25,positive,8.0,Netherlands,Budget Twin Room,Couple,9,2022
+room may bit small longer stay sinc stay one night wasnt problem,-0.25,positive,9.0,Austria,Double Room,Couple,8,2022
+,0.0,positive,10.0,Italy,Double Room with Balcony,Family,9,2022
+room littl smaller averag larg bathroom shower,0.0,positive,10.0,Italy,Double Room with Balcony,Couple,8,2022
+,0.0,positive,10.0,Italy,Double Room,Solo traveler,8,2022
+,0.0,positive,9.0,Sweden,Double Room with Balcony,Couple,8,2022
+littl park nearbi arriv even,0.0,positive,8.0,Italy,Budget Twin Room,Group,8,2022
+noth,0.0,positive,10.0,France,Standard Triple Room,Couple,8,2022
+noth complain,0.0,positive,10.0,Germany,Double Room with Balcony,Couple,8,2022
+,0.0,positive,10.0,Ukraine,Standard Triple Room,Family,8,2022
+,0.0,positive,10.0,Cyprus,Double Room with Balcony,Solo traveler,8,2022
+pay breakfast,0.0,positive,10.0,Germany,Standard Triple Room,Family,8,2022
+,0.0,positive,10.0,Israel,Two-Bedroom Suite,Family,8,2022
+everyth alright,0.0,positive,10.0,Israel,Two-Bedroom Suite,Family,8,2022
+hotel seem freshen recent everyth seem flawless u,0.5,positive,10.0,Cyprus,Double Room with Balcony,Couple,8,2022
+noth didnt like,0.0,positive,10.0,Israel,Two-Bedroom Suite,Family,8,2022
+,0.0,positive,9.0,Cyprus,Double Room with Balcony,Family,8,2022
+,0.0,positive,8.0,Italy,Two-Bedroom Suite,Group,8,2022
+bed could open less comfort toilet shower togeth less conveni,-0.09166666666666666,positive,9.0,Israel,Two-Bedroom Suite,Family,8,2022
+lack pool especi window see pool nearbi hotel overal good valu price paid,0.7,positive,9.0,Israel,Two-Bedroom Suite,Family,7,2022
+breakfast offer independ servic correspond quantit qualit known level cypriot hospit gastronomi price € breakfast much expens reason valu term qualiti quantiti offer product,0.2,positive,8.0,Cyprus,Budget Twin Room,Family,8,2022
+noth,0.0,positive,8.0,France,Standard Triple Room,Family,8,2022
+like everyth,0.0,positive,10.0,Germany,Double Room,Couple,8,2022
+hot water two night slept even complain said took care wasnt taken care,0.25,positive,8.0,Israel,Standard Triple Room,Family,8,2022
+noth,0.0,positive,8.0,Italy,Double Room,Couple,8,2022
+water bath cold stay middl august even david shemesh suppos arrang boil soup,-0.6,positive,8.0,Israel,Double Room,Couple,8,2022
+room bit small seat,-0.25,positive,8.0,Cyprus,Budget Twin Room,Solo traveler,8,2022
+,0.0,positive,8.0,France,Double Room,Couple,8,2022
+,0.0,positive,10.0,Iceland,Standard Triple Room,Family,8,2022
+,0.0,positive,8.0,Switzerland,Double Room,Couple,8,2022
+,0.0,positive,10.0,Israel,Suite with Balcony,Group,8,2022
+taxi driver pick u short drive airport rip u sure negoti price beforehand fault,0.25,positive,9.0,Germany,Double Room with Balcony,Couple,8,2022
+,0.0,positive,10.0,Israel,Standard Triple Room,Family,8,2022
+,0.0,positive,10.0,France,Double Room,Couple,8,2022
+,0.0,positive,9.0,Israel,Budget Twin Room,Couple,7,2022
+elev need clean mayb complet renov would better,0.43333333333333335,positive,9.0,Greece,Double Room with Balcony,Solo traveler,7,2022
+blue light balconi night interfer sleep open window,0.13333333333333333,positive,9.0,France,Double Room with Balcony,Solo traveler,7,2022
+,0.0,positive,10.0,Israel,Double Room,Family,7,2022
+,0.0,positive,10.0,Israel,Double Room,Family,7,2022
+air condit poor regul cold directli bodi heat,-0.5,positive,9.0,Spain,Two-Bedroom Suite,Family,7,2022
+noth,0.0,positive,10.0,France,Double Room,Couple,7,2022
+bottl water readi two peopl everyth els like,0.0,positive,9.0,Netherlands,Suite with Balcony,Family,7,2022
+,0.0,positive,10.0,Israel,Double Room with Balcony,Couple,7,2022
+,0.0,positive,9.0,Israel,Family Suite with Balcony,Group,7,2022
+difficulti find park,0.0,positive,10.0,Cyprus,Suite with Balcony,Group,7,2022
+,0.0,positive,10.0,France,Family Suite with Balcony,Family,7,2022
+noth,0.0,positive,8.0,Italy,Double Room with Balcony,Solo traveler,7,2022
+,0.0,positive,10.0,Israel,Family Suite with Balcony,Family,7,2022
+,0.0,positive,10.0,France,Two-Bedroom Suite,Family,7,2022
+,0.0,positive,9.0,Germany,Double Room with Balcony,Solo traveler,7,2022
+,0.0,positive,10.0,Hungary,Double Room with Balcony,Couple,7,2022
+,0.0,positive,10.0,Germany,Double Room,Solo traveler,4,2022
+work next door unfortun owner cant anyth,0.0,positive,8.0,France,Double Room with Balcony,Couple,7,2022
+,0.0,positive,10.0,Ukraine,Standard Triple Room,Family,7,2022
+element,0.0,positive,8.0,Poland,Double Room with Balcony,Couple,6,2022
+,0.0,positive,8.0,Cyprus,Family Suite with Balcony,Group,7,2022
+,0.0,positive,8.0,Romania,Double Room with Balcony,Couple,7,2022
+uncomfort fold bed child night could fall asleep also quit noisi night hear airplan music nightclub think appli hotel locat close airport,0.0,positive,9.0,Montenegro,Standard Triple Room,Family,7,2022
+,0.0,positive,10.0,Norway,Family Suite with Balcony,Family,7,2022
+noisi outsid,0.0,positive,8.0,Canada,Double Room with Balcony,Group,6,2022
+slightli small bathroom still ok,0.125,positive,8.0,Italy,Budget Twin Room,Group,6,2022
+,0.0,positive,9.0,Israel,Two-Bedroom Suite,Family,6,2022
+nois nightclub comfort cot child cramp,0.0,positive,8.0,Montenegro,Standard Triple Room,Family,6,2022
+,0.0,positive,10.0,Cyprus,Double Room,Couple,6,2022
+,0.0,positive,10.0,Israel,Family Suite with Balcony,Group,6,2022
+,0.0,positive,9.0,Germany,Double Room with Balcony,Couple,6,2022
+qualiti televis imag quit poor,-0.4,positive,8.0,Belgium,Double Room,Couple,6,2022
+,0.0,positive,10.0,Spain,Double Room with Balcony,Couple,6,2022
+,0.0,positive,8.0,Brazil,Double Room with Balcony,Couple,6,2022
+,0.0,positive,8.0,Germany,Double Room with Balcony,Couple,6,2022
+room seal corridor hear everyth somewhat small steril room,-0.25,positive,8.0,Austria,Double Room with Balcony,Couple,6,2022
+view room,0.0,positive,8.0,France,Budget Twin Room,Family,6,2022
+size room enough spend one night much ridicul closet price perhap littl high comfort room give small soon enter go partner would disappoint due lack space,-0.0030000000000000027,positive,8.0,Spain,Double Room with Balcony,Solo traveler,6,2022
+,0.0,positive,8.0,France,Suite with Balcony,Family,6,2022
+ra,0.0,positive,10.0,France,Budget Twin Room,Couple,6,2022
+small downsid concern light outsid certain time,0.12142857142857144,positive,9.0,France,Double Room,Couple,6,2022
+room balconi stay one day fine live dri towel swimsuit,0.2765151515151515,positive,8.0,Latvia,Double Room,Solo traveler,6,2022
+detail would appreci small bottl water room arriv,-0.25,positive,8.0,France,Double Room with Balcony,Couple,5,2022
+order shuttl thought specif hotel turn lambda taxi problem wait minut late nobodi warn u pay straight away thought would includ hotel bill end stay would better indic directli independ hotel would wait front taxi tri reach everyon,0.13333333333333333,positive,9.0,France,Family Suite with Balcony,Family,5,2022
+,0.0,positive,9.0,France,Double Room,Solo traveler,5,2022
+noisi,0.0,positive,8.0,Germany,Double Room with Balcony,Couple,5,2022
+garbag truck am make lot nois,0.0,positive,9.0,Poland,Double Room with Balcony,Couple,5,2022
+,0.0,positive,9.0,Israel,Double Room,Couple,5,2022
+book room one bed fact separ bed one warn uncomfort husband sleep move mattress known begin would room one bed would chosen anoth hotel spoil impress,0.0,positive,8.0,Ukraine,Double Room,Couple,5,2022
+,0.0,positive,10.0,Israel,Double Room with Balcony,Couple,5,2022
+didnt balconi wasnt bad though one night,-0.6999999999999998,positive,8.0,Germany,Double Room,Couple,5,2022
+noisi air condit night traffic area,0.0,positive,8.0,Czech Republic,Double Room,Couple,5,2022
+noth complain,0.0,positive,10.0,Germany,Double Room,Solo traveler,5,2022
+,0.0,positive,10.0,France,Two-Bedroom Suite,Family,4,2022
+,0.0,positive,8.0,Switzerland,Double Room,Solo traveler,5,2022
+bit far citi center taxi cost u price anywher citi critic stun place,0.0,positive,10.0,Israel,Double Room with Balcony,Family,4,2022
+,0.0,positive,9.0,Cyprus,Standard Triple Room,Couple,5,2022
+,0.0,positive,10.0,Austria,Double Room with Balcony,Solo traveler,5,2022
+wifi weak time,-0.375,positive,8.0,Germany,Double Room,Solo traveler,5,2022
+anyth,0.0,positive,10.0,Colombia,Standard Triple Room,Couple,5,2022
+,0.0,positive,10.0,France,Two-Bedroom Suite,Family,5,2022
+,0.0,positive,9.0,Germany,Double Room with Balcony,Solo traveler,4,2022
+,0.0,positive,10.0,Spain,Double Room with Balcony,Family,4,2022
+,0.0,positive,10.0,Poland,Double Room with Balcony,Solo traveler,4,2022
+,0.0,positive,10.0,Israel,Two-Bedroom Suite,Family,4,2022
+,0.0,positive,10.0,Germany,Standard Triple Room,Family,4,2022
+everyth perfect,1.0,positive,10.0,Cyprus,Double Room with Balcony,Group,4,2022
+,0.0,positive,10.0,Israel,Standard Triple Room,Family,4,2022
+humid air room warm air condit probabl didnt work properli,0.6,positive,9.0,Germany,Double Room,Couple,4,2022
+well,0.0,positive,10.0,Denmark,Double Room with Balcony,Couple,4,2022
+,0.0,positive,10.0,Hungary,Double Room with Balcony,Couple,4,2022
+would like varieti breakfast price food ratio disproportion,0.0,positive,8.0,Cyprus,Double Room with Balcony,Group,4,2022
+hair dryer,0.0,positive,9.0,France,Double Room,Solo traveler,3,2022
+,0.0,positive,9.0,Croatia,Double Room,Couple,1,2022
+,0.0,positive,10.0,Ukraine,Double Room,Group,1,2022
+,0.0,positive,10.0,Russia,Double Room,Couple,12,2021
+mayb recept need improv old furnitur,0.1,positive,9.0,Italy,Double Room with Balcony,Group,11,2021
+room small could bit spaciou everyth fine met expect,0.08333333333333334,positive,9.0,Ukraine,Double Room,Couple,11,2021
+,0.0,positive,10.0,Ukraine,Family Suite with Balcony,Family,1,2022
+,0.0,positive,10.0,Russia,Double Room,Solo traveler,11,2021
+noth complain,0.0,positive,10.0,Russia,Double Room,Couple,10,2021
+draw number,0.0,positive,8.0,Ukraine,Standard Triple Room,Family,12,2021
+minu sometim car came pick garbag can night precis car pour depth worri nois sleep expens tourist also mirror room plenti distort imag rather made fatter everyth els plu,0.0,positive,9.0,Russia,Double Room with Balcony,Couple,9,2021
+hotel far airport bit far citi center,0.03333333333333333,positive,9.0,France,Double Room,Solo traveler,11,2021
+,0.0,positive,10.0,Norway,Double Room,Couple,12,2021
+,0.0,positive,9.0,Greece,Double Room,Couple,11,2021
+,0.0,positive,10.0,Germany,Double Room with Balcony,Family,11,2021
+noisi area ring sound accumul terribl forc night constantli woke either sound airplan pass car slam trunk earplug save,0.4,positive,8.0,Russia,Double Room with Balcony,Solo traveler,11,2021
+,0.0,positive,10.0,Norway,Double Room,Couple,11,2021
+sleep lightli disturb aircraft nois tire sleep,0.0,positive,8.0,Germany,Double Room,Couple,11,2021
+beauti accommod unfortun night fertil larnaca whole citi stank perhap shortliv,0.2,positive,9.0,Czech Republic,Standard Triple Room,Group,10,2021
+pool infrastructur,0.0,positive,8.0,Poland,Standard Triple Room,Family,10,2021
+,0.0,positive,10.0,Austria,Double Room with Balcony,Family,11,2021
+bed soft lot plastic therefor sweati middl night garbag contain empti lot nois,0.1,positive,8.0,Netherlands,Double Room with Balcony,Couple,11,2021
+bed bit uncomfort unfortun organ taxi came late bit chaotic even hotel cannot anyth,-0.3,positive,9.0,Germany,Double Room with Balcony,Solo traveler,10,2021
+mackenzi beach noisi windi like long vacat,-0.05,positive,10.0,Ukraine,Double Room,Family,10,2021
+,0.0,positive,8.0,Israel,Two-Bedroom Suite,Family,9,2021
+,0.0,positive,10.0,Ukraine,Double Room,Couple,10,2021
+except welcom french proxim airport nearbi bu stop provid access citi center airport cleanli design room,-0.05,positive,10.0,France,Double Room with Balcony,Couple,10,2021
+unfortun pool close,0.0,positive,10.0,Germany,Double Room with Balcony,Solo traveler,10,2021
+,0.0,positive,8.0,Germany,Family Suite with Balcony,Group,10,2021
+,0.0,positive,10.0,Poland,Double Room with Balcony,Couple,10,2021
+,0.0,positive,10.0,Russia,Double Room with Balcony,Family,10,2021
+everyth ok,0.5,positive,9.0,Germany,Double Room,Solo traveler,10,2021
+shower door curtain take shower drop fall floor wifi enough phone enough laptop shop nearbi,0.0,positive,10.0,Russia,Double Room with Balcony,Family,10,2021
+,0.0,positive,8.0,Germany,Double Room with Balcony,Solo traveler,10,2021
+right,0.2857142857142857,positive,9.0,Spain,Double Room with Balcony,Couple,10,2021
+lot nois hallway,0.0,positive,8.0,France,Double Room with Balcony,Couple,10,2021
+,0.0,positive,8.0,Russia,Double Room with Balcony,Family,10,2021
+addit liquid soap mean bring along shampoo soap gel etc,-0.3125,positive,8.0,Russia,Double Room with Balcony,Solo traveler,10,2021
+,0.0,positive,9.0,Germany,Standard Triple Room,Family,10,2021
+,0.0,positive,8.0,Germany,Standard Triple Room,Group,9,2021
+nois discotheque…,0.0,positive,9.0,France,Double Room with Balcony,Couple,10,2021
+,0.0,positive,10.0,Russia,Double Room with Balcony,Couple,9,2021
+,0.0,positive,10.0,France,Double Room with Balcony,Couple,9,2021
+breakfast probabl weakest link hotel,0.0,positive,9.0,Israel,Family Suite with Balcony,Couple,9,2021
+,0.0,positive,10.0,Poland,Double Room with Balcony,Couple,9,2021
+,0.0,positive,10.0,Greece,Double Room with Balcony,Couple,9,2021
+thin wall everyth heard oclock morn woke fact garbag truck load tank,-0.4,positive,8.0,Russia,Double Room,Couple,9,2021
+,0.0,positive,10.0,Ukraine,Standard Triple Room,Group,9,2021
+quilt warm summer,0.6,positive,10.0,Israel,Family Suite with Balcony,Family,8,2021
+bad swim pool indic book site recept hotel,-0.6999999999999998,positive,9.0,France,Double Room with Balcony,Solo traveler,9,2021
+tomorrow quit meager euro room small bed meter time clean tidi area near hotel wasteland wasteland noth importantli go nearbi cafesrestaur never terribl dinner,-0.09583333333333333,positive,7.9,Russia,Standard Triple Room,Couple,8,2021
+,0.0,positive,9.0,France,Double Room,Couple,9,2021
+,0.0,positive,10.0,France,Double Room,Couple,9,2021
+cant even rememb,0.0,positive,10.0,Russia,Double Room with Balcony,Couple,7,2021
+electr kettl didnt seem work that detail,0.0,positive,8.0,France,Double Room with Balcony,Solo traveler,8,2021
+,0.0,positive,10.0,Ukraine,Standard Triple Room,Group,8,2021
+small room one nescaf bag curtain bathroom better remov photo pool sinc hole,0.125,positive,8.0,Italy,Double Room with Balcony,Group,8,2021
+,0.0,positive,10.0,Russia,Double Room with Balcony,Family,8,2021
+room bit small son sleep starter,-0.25,positive,8.0,Poland,Standard Triple Room,Family,8,2021
+ra,0.0,positive,10.0,France,Double Room with Balcony,Family,8,2021
+ra,0.0,positive,10.0,France,Family Suite with Balcony,Family,8,2021
+,0.0,positive,9.0,Russia,Double Room with Balcony,Solo traveler,8,2021
+,0.0,positive,10.0,Poland,Double Room with Balcony,Solo traveler,8,2021
+,0.0,positive,8.0,Cyprus,Standard Triple Room,Family,8,2021
+small room famili,-0.25,positive,10.0,Russia,Family Suite with Balcony,Family,8,2021
+,0.0,positive,10.0,Cyprus,Double Room with Balcony,Solo traveler,8,2021
+,0.0,positive,9.0,Russia,Double Room with Balcony,Couple,7,2021
+,0.0,positive,10.0,Spain,Two-Bedroom Suite,Family,7,2021
+swim pool small dirti,-0.25,positive,8.0,Netherlands,Two-Bedroom Suite,Family,7,2021
+,0.0,positive,9.0,Cyprus,Double Room with Balcony,Solo traveler,7,2021
+nice close airport,0.6,positive,9.0,Israel,Double Room with Balcony,Couple,7,2021
+,0.0,positive,9.0,Cyprus,Standard Triple Room,Group,7,2021
+,0.0,positive,9.6,France,Standard Triple Room,Family,7,2021
+lack adapt socket room staff promis fix,0.0,positive,8.0,Ukraine,Double Room with Balcony,Group,6,2021
+,0.0,positive,8.0,Spain,Double Room with Balcony,Solo traveler,7,2021
+trash room,0.0,positive,10.0,Russia,Double Room with Balcony,Solo traveler,7,2021
+street hotel locat,0.0,positive,9.0,Netherlands,Double Room with Balcony,Couple,7,2021
+,0.0,positive,8.0,Switzerland,Family Suite with Balcony,Family,7,2021
+nice staff,0.6,positive,10.0,Poland,Double Room with Balcony,Family,7,2021
+shower water often overflow bathroom drain work well,0.0,positive,9.0,Russia,Double Room with Balcony,Couple,7,2021
+tv channel,0.0,positive,10.0,Turkey,Standard Triple Room,Solo traveler,7,2021
+,0.0,positive,10.0,Germany,Double Room with Balcony,Couple,7,2021
+construct attitud staff,0.0,positive,9.0,Hungary,Standard Triple Room,Family,7,2021
+noisi disco mackenzi,0.0,positive,10.0,Russia,Double Room with Balcony,Group,7,2021
+restaur beach go intens road,0.0,positive,10.0,Russia,Two-Bedroom Suite,Family,7,2021
+,0.0,positive,10.0,Ukraine,Double Room with Balcony,Couple,6,2021
+noth everyth perfect,1.0,positive,10.0,France,Double Room with Balcony,Solo traveler,6,2021
+proxim airport nuanc nois plane take smell jet fuel audibl near beach night disco also make difficult sleep,-0.2,positive,8.0,Ukraine,Double Room with Balcony,Couple,6,2021
+,0.0,positive,10.0,Ukraine,Double Room with Balcony,Solo traveler,6,2021
+everyth fine,0.4166666666666667,positive,10.0,Ukraine,Double Room with Balcony,Family,6,2021
+see hotel young everyth perfect yet staff everyth possibl compens inconveni,0.55,positive,8.0,Ukraine,Family Suite with Balcony,Group,6,2021
+,0.0,positive,10.0,Ukraine,Double Room with Balcony,Family,6,2021
+alreadi talk staff prepar lot pool play room roof garden,0.0,positive,10.0,Cyprus,Double Room with Balcony,Family,6,2021
+,0.0,positive,9.0,Germany,Double Room with Balcony,Solo traveler,6,2021
+excel valu money noth say,0.0,positive,10.0,Belgium,Double Room with Balcony,Solo traveler,6,2021
+,0.0,positive,9.0,Israel,Double Room with Balcony,Solo traveler,6,2021
+,0.0,positive,10.0,Switzerland,Double Room with Balcony,Solo traveler,5,2021
+run water morn left dont chang normal take shower,0.075,neutral,6.0,Ukraine,Double Room with Balcony,Solo traveler,11,2022
+nois uncomfort bed,0.0,negative,3.0,Israel,Two-Bedroom Suite,Family,10,2022
+clean,0.3666666666666667,neutral,6.0,Israel,Double Room with Balcony,Family,10,2022
+close airport advertis,0.0,neutral,7.0,Denmark,Double Room,Couple,10,2022
+sound airport,0.4,neutral,6.0,Poland,Double Room with Balcony,Family,9,2022
+breakfast time,0.0,neutral,7.0,France,Budget Twin Room,Family,8,2022
+like behavior gentleman reserv assur breakfast price room upon arriv refus provid breakfast unaccept manner without even speak cypriot languag dissatisfact choic great,0.8,neutral,7.0,Greece,Double Room with Balcony,Family,9,2022
+frozen water bath,0.0,neutral,7.0,Israel,Double Room,Couple,8,2022
+minibar empti work annoy arriv midnight look forward beer,0.0,neutral,7.0,Austria,Double Room,Solo traveler,9,2022
+hotel suitabl overnight stay small room view,-0.25,neutral,7.0,India,Double Room with Balcony,Couple,8,2022
+staff night,0.0,neutral,6.0,Israel,Double Room,Family,7,2022
+room next anoth properti pool despit much nois shout unabl rest,0.1,neutral,5.0,Cyprus,Family Suite with Balcony,Family,6,2022
+extrem noisi,0.0,neutral,7.0,Germany,Double Room with Balcony,Couple,7,2022
+,0.0,neutral,7.0,Italy,Double Room,Couple,6,2022
+qualitypric ratio sleep air condit summer lot nois nearbi beach earli morn,0.0,neutral,7.0,Greece,Double Room with Balcony,Couple,6,2022
+,0.0,neutral,7.0,Germany,Double Room with Balcony,Couple,6,2022
+would nice breakfast buffet,0.6,neutral,7.0,Germany,Double Room with Balcony,Solo traveler,5,2022
+minut wait bad half raw croissant wateri cappuccino,-0.3658119658119658,neutral,7.0,Italy,Double Room,Couple,4,2022
+receptionist didnt understand english well staff could give inform bu airport,0.0,neutral,6.0,Austria,Double Room,Solo traveler,4,2022
+lack adapt socket,0.0,neutral,7.0,Italy,Family Suite with Balcony,Group,3,2022
+soundproof,0.0,neutral,7.0,Sweden,Double Room with Balcony,Couple,11,2021
+warm blanket slightli untidi floor smell littl sewag,0.6,neutral,7.0,Sweden,Two-Bedroom Suite,Family,10,2021
+room smell sewag never like definit minu prevent come,0.0,neutral,6.0,Finland,Double Room with Balcony,Couple,10,2021
+nois eman terrac locat st floor,0.0,neutral,7.0,France,Double Room with Balcony,Couple,10,2021
+except one gentleman recept employe wear mask small room almost nonexist storag space extrem small balconi thin wall night heard travel check oclock morn garbag pick street infern mess oclock morn tri open door balconi close throw instantli seem farm nearbi smell like concentr manur adapt found room burnedmelt phone charger,-0.215,negative,3.0,Romania,Double Room with Balcony,Couple,10,2021
+photo room book cant see column take space uncomfort balconi first floor low intim close street hotel lobbi even smell smoke cigarett smoke safe make sens sinc wall matter leav money bag could put shampoo bathroom soap sinc kettl room er two peopl could put coffe sachet tea sachet,0.25,neutral,7.0,Argentina,Double Room with Balcony,Couple,10,2021
+room given one book small corner,-0.25,negative,3.0,Russia,Double Room with Balcony,Solo traveler,9,2021
+far beach hotel averag star euro night bit expens window overlook courtyard quit noisi,0.1,neutral,7.0,Lithuania,Family Suite with Balcony,Family,9,2021
+monoton breakfast everyday set egg slice toast grill mushroom grill tomato pepper small sausag coffe relax zone swim pool deckchair billiard definit encourag use,-0.225,neutral,6.0,Poland,Double Room with Balcony,Group,9,2021
+live week bed linen never chang clean chang towel daili number microscop rent nissan micra refriger full minibar money pull everyth product would fit hotel allow turn coupl hour delay plane walk promenad larnaca minut lidl hour half hotel realli one night,0.21727272727272723,neutral,6.0,Russia,Double Room with Balcony,Group,9,2021
+constant stench come outsid lack storag space,0.0,neutral,7.0,Greece,Double Room with Balcony,Couple,8,2021
+breakfast delici eat bring fruit van drove window almost everi day earli morn seller shout mouthpiec walk distanc center within walk distanc mackenzi beach parti cafe poor soundproof corridor,-0.25,neutral,6.0,Russia,Double Room with Balcony,Solo traveler,8,2021
+couldnt close one window,0.0,positive,9.0,Czech Republic,,Family,8,2022
+,0.0,positive,10.0,Lebanon,,Family,8,2022
+difficulti differ socket provid devic without adapt,0.0,positive,8.0,Greece,,Family,7,2022
+noth,0.0,positive,10.0,France,,Couple,5,2022
+,0.0,positive,9.0,Germany,,Solo traveler,3,2022
+,0.0,positive,10.0,Russia,,Family,11,2021
+,0.0,positive,10.0,France,,Couple,10,2021
+noth except breakfast serv bar next door frugal price slow servic,-0.15000000000000002,positive,10.0,France,,Couple,10,2021
+,0.0,positive,10.0,Russia,,Family,10,2021
+bed frame structur danger sharp corner,-0.125,positive,8.0,Finland,,Group,10,2021
+,0.0,positive,10.0,Israel,,Couple,10,2021
+,0.0,positive,10.0,Russia,,Solo traveler,9,2021
+,0.0,positive,10.0,Israel,,Couple,7,2021
+baddegrad area garbag heap bin next hotel clean insid mislead photo,0.18333333333333335,neutral,6.0,Spain,,Group,6,2021
