@@ -155,9 +155,9 @@ def wordcloud_treemap(df, column='cleaned_positive'):
     nltk.download('stopwords', quiet=True)
     stop_words = set(nltk.corpus.stopwords.words('english'))
 
-    text = df[column].astype(str).str.lower()
+    text = df[column].fillna('').astype(str).str.lower()
     text = text.str.replace('[{}]'.format(string.punctuation), ' ', regex=True)
-    all_words = ' '.join(text).split()
+    all_words = ' '.join(text.tolist()).split()
     all_words = [w for w in all_words if w not in stop_words and len(w) > 2]
 
     word_counts = pd.Series(all_words).value_counts().head(80)
